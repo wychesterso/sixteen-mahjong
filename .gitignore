@@ -1,7 +1,13 @@
 ### IntelliJ IDEA ###
+.idea/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+version/
+src/.idea
+src/launch.bat
+src/manifest.txt
+src/SixteenMahjong.jar
 
 ### Eclipse ###
 .apt_generated
