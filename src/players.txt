@@ -1,11 +1,16 @@
-10
+14
 Bot|AA|East|906
-Bot|BB|South|1233
-Bot|CC|West|1113
-Bot|DD|North|855
+Bot|BB|South|1205
+Bot|CC|West|1199
+Bot|DD|North|827
 Bot|Happy Guy|East|1162
 Bot|Botty|South|690
-Bot|Dick|West|788
-Bot|Head|North|904
 RealPlayer|Bruh|East|10531
-RealPlayer|Tester|East|10170
+RealPlayer|Tester|East|10140
+RealPlayer|Main Character|East|19982
+RealPlayer|Ches|East|879
+RealPlayer|Al|South|766
+RealPlayer|Matthias|West|1677
+Bot|Bot1|South|9988
+Bot|Bot2|West|10020
+Bot|Bot3|North|10010
