@@ -41,7 +41,7 @@ public enum Tile {
     WIND_SOUTH(TileType.WORD_WIND, 2, "🀁"),
     WIND_WEST(TileType.WORD_WIND, 3, "🀂"),
     WIND_NORTH(TileType.WORD_WIND, 4, "🀃"),
-    WORD_ZHONG(TileType.WORD_DRAGON, 5, "\uD83C\uDC04"),
+    WORD_ZHONG(TileType.WORD_DRAGON, 5, "🀄"),
     WORD_FAT(TileType.WORD_DRAGON, 6, "🀅"),
     WORD_BAT(TileType.WORD_DRAGON, 7, "🀆"),
 
