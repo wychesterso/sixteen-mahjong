@@ -1,1 +1,1 @@
-# sixteen-mahjong
+16-Tiles Mahjong game!
