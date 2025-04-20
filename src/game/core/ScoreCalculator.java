@@ -279,25 +279,31 @@ public class ScoreCalculator {
         brights.addAll(brightSheungs);
         brights.addAll(brightPongs);
         brights.addAll(brightKongs);
+
         List<List<Tile>> darks = new ArrayList<>();
         darks.addAll(darkSheungs);
         darks.addAll(darkPongs);
         darks.addAll(darkKongs);
+
         List<List<Tile>> sheungs = new ArrayList<>();
         sheungs.addAll(brightSheungs);
         sheungs.addAll(darkSheungs);
         int numSheungs = sheungs.size();
+
         List<List<Tile>> pongs = new ArrayList<>();
         pongs.addAll(brightPongs);
         pongs.addAll(darkPongs);
+
         List<List<Tile>> kongs = new ArrayList<>();
         kongs.addAll(brightKongs);
         kongs.addAll(darkKongs);
+
         List<List<Tile>> pongsAndKongs = new ArrayList<>();
         pongsAndKongs.addAll(pongs);
         pongsAndKongs.addAll(kongs);
         int numPongsAndKongs = pongsAndKongs.size();
         Tile pairTile = pair.getFirst();
+
         List<List<Tile>> allGroups = new ArrayList<>();
         allGroups.addAll(sheungs);
         allGroups.addAll(pongsAndKongs);
